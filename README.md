@@ -5,6 +5,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/Sivaprasad-creator/Brain-Tumor-Detection)
 ![GitHub license](https://img.shields.io/github/license/Sivaprasad-creator/Brain-Tumor-Detection)
 
+![image alt](https://github.com/Sivaprasad-creator/Brain-Tumor-Detection/blob/aacffe7afbcb85fbbc8088cd5f73f84c13159120/Brain%20Tumor.jpg)
+
 ## 📌 Project Overview
 
 This project builds an **automatic Brain Tumor Detection system** using **MRI scan images**. It classifies scans into **three tumor types** — **Pituitary, Meningioma, Glioma** — and also detects if **no tumor** is present. The solution uses **Deep Learning (CNN & Transfer Learning)** and is deployed as a **Streamlit web app** for user-friendly predictions.
