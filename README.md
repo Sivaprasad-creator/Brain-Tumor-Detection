@@ -68,7 +68,15 @@ This project includes a **Streamlit web app** that allows you to:
 
 ## Deployment Preview
 
+![image alt](https://github.com/Sivaprasad-creator/Brain-Tumor-Detection/blob/master/Tumor_gl.png)
 
+![image alt](https://github.com/Sivaprasad-creator/Brain-Tumor-Detection/blob/master/Tumor_me.png)
+
+![image alt](https://github.com/Sivaprasad-creator/Brain-Tumor-Detection/blob/master/Tumor_pi.png)
+
+![image alt](https://github.com/Sivaprasad-creator/Brain-Tumor-Detection/blob/master/No_tumor.png)
+
+---
 
 ## 🛠️ How to Run Locally
 
